@@ -1,0 +1,3 @@
+- https://www.chess.com/blog/AldoE/the-tale-of-the-lost-wrapper-inbetween-by-odd-gunnar-malin
+- http://rybkaforum.net/cgi-bin/rybkaforum/topic_show.pl?tid=28658
+- http://polarchess.net/index.php?option=com_content&view=article&id=1:inbetween&catid=2&Itemid=101

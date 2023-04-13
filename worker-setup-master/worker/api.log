@@ -1,0 +1,16 @@
+2023-03-10 04:50:36.087232 :   1.35 ms (s)  1297.73 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:50:37.100885 :   0.27 ms (s)  1007.80 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:50:42.299028 :   0.15 ms (s)  1177.45 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:50:44.744528 : 177.13 ms (s)  1335.51 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 04:51:00.927619 :   0.11 ms (s)  1177.86 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:51:03.100073 :  98.71 ms (s)  1275.48 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 04:51:34.256692 :   0.17 ms (s)  1149.79 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:51:38.231177 : 1800.25 ms (s)  2997.68 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 04:52:39.399027 :   1.82 ms (s)  1160.60 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:52:41.796068 :  83.77 ms (s)  1301.53 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 04:54:42.850801 :   1.48 ms (s)  1049.51 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:54:45.186058 :  81.16 ms (s)  1229.16 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 04:58:46.321842 :   1.36 ms (s)  1130.40 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 04:58:48.713778 :  83.97 ms (s)  1262.55 ms (w)  https://tests.stockfishchess.org:443/api/request_task
+2023-03-10 05:06:50.068398 :   2.29 ms (s)  1350.12 ms (w)  https://tests.stockfishchess.org:443/api/request_version
+2023-03-10 05:06:52.583674 : 145.18 ms (s)  1397.20 ms (w)  https://tests.stockfishchess.org:443/api/request_task

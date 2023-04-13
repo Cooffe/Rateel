@@ -1,0 +1,66 @@
+InBetween
+
+This program act as a in between program when on program (client) try to control
+another program (server). Typical: a chess GUI that try to control the engine.
+Sometimes the command sets of both programs are in conflict. It is here you can
+use this little utility to adjust the command after it is delivered from the client
+and before it receives on the server.
+
+Syntax: InBetween [/t filename /p priority /c /d n /l logfile] <command line>
+Where:
+  /t textfile with the translation. Default=InBetween.ini
+  /p Priority flag, low, normal or high. Default is the same as this process.
+  /c Stop ctrl signals (ctrl c). Default is passing through.
+     Not used by Winboard, eg. need a console.
+  /d Debug where n could be 1=client side, 2=server side, 3=both
+  /l Logfile
+
+Ex.
+InBetween engine.exe
+This will start the program engine.exe and use the file InBetween.ini as a
+translator file.
+
+You could also specifies what translator file you will use with the parameter /t
+
+Ex.
+InBetween /t engine.txt engine.exe
+
+This will look in the file engine.txt for word to translatet.
+
+Another option is a possibility to set the priority of the server program
+You do this with the /p parameters.
+Valid option is /p low, /p normal /p high
+Normaly this is adjusted by the GUI, but if your engine is multi-threaded this
+would only be done on the main thread. If you set it here it will start the engine
+in this priority class instead an thereby all thread get this priority.
+
+Example of an InBetween.ini file.
+[InBetween]
+; You can set program option here if its not possible in the server program
+;Priority := low, normal or high
+;CommandLine := c:\Program files\Engines\Crafty\wcrafty.exe
+;Debug := 0,1,2,3
+;Ctrl := False or True
+;Log := logfile.log
+
+[Client2Server]
+; Set the translation of client command to server here.
+
+[Server2Client]
+; Set the translation of server response to the client here.
+
+
+Debug mode
+Colors
+Blue  - is flow to the server
+Red   - flow to the client
+Green - Control signal etc.
+
+When debug := 1
+Viewpoint is on the client interface.
+
+When debug := 2
+Viewpoint is on the server interface.
+
+When debug := 3
+Viewpoint is after the translation (input to client and input to server).

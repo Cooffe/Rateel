@@ -1,0 +1,333 @@
+CPU model :  Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz
+CPU       :   1  -  Online cores    :   8
+Siblings  :   8  -  Total siblings  :   8
+CPU cores :   4  -  Total CPU cores :   4
+
+Write your fishtest username:
+Write your fishtest password:
+Write the number of cores to be contributed to fishtest:
+(max suggested 'Total CPU cores - 1')
+يحلّ الاعتماديّات...
+يبحث عن الحزم المتضاربة...
+
+الحزم (34) mingw-w64-x86_64-binutils-2.40-2  mingw-w64-x86_64-bzip2-1.0.8-2  mingw-w64-x86_64-crt-git-10.0.0.r234.g283e5b23a-1  mingw-w64-x86_64-expat-2.5.0-1  mingw-w64-x86_64-gcc-libs-12.2.0-10  mingw-w64-x86_64-gettext-0.21.1-1  mingw-w64-x86_64-gmp-6.2.1-5  mingw-w64-x86_64-headers-git-10.0.0.r234.g283e5b23a-1  mingw-w64-x86_64-isl-0.25-1  mingw-w64-x86_64-libffi-3.4.4-1  mingw-w64-x86_64-libiconv-1.17-3  mingw-w64-x86_64-libsystre-1.0.1-4  mingw-w64-x86_64-libtre-git-r128.6fb7206-2  mingw-w64-x86_64-libwinpthread-git-10.0.0.r234.g283e5b23a-1  mingw-w64-x86_64-mpc-1.3.1-1  mingw-w64-x86_64-mpdecimal-2.5.1-1  mingw-w64-x86_64-mpfr-4.2.0-1  mingw-w64-x86_64-ncurses-6.4.20230211-1  mingw-w64-x86_64-openssl-3.0.8-1  mingw-w64-x86_64-readline-8.2.001-6  mingw-w64-x86_64-sqlite3-3.41.0-1  mingw-w64-x86_64-tcl-8.6.12-1  mingw-w64-x86_64-termcap-1.3.1-6  mingw-w64-x86_64-tk-8.6.12-1  mingw-w64-x86_64-tzdata-2022g-1  mingw-w64-x86_64-windows-default-manifest-6.4-4  mingw-w64-x86_64-winpthreads-git-10.0.0.r234.g283e5b23a-1  mingw-w64-x86_64-xz-5.4.1-1  mingw-w64-x86_64-zlib-1.2.13-3  mingw-w64-x86_64-zstd-1.5.4-1  make-4.4.1-1  mingw-w64-x86_64-gcc-12.2.0-10  mingw-w64-x86_64-python-3.10.10-1  unzip-6.0-2
+
+محصلة حجوم التنزيلات:   87.09 MiB
+محصلة حجوم المثبّتات:   645.20 MiB
+
+:: مواصلة التثبيت؟ [Y/n] 
+:: يجلب الحزم...
+ mingw-w64-x86_64-gcc-12.2.0-10-any downloading...
+ mingw-w64-x86_64-python-3.10.10-1-any downloading...
+ mingw-w64-x86_64-openssl-3.0.8-1-any downloading...
+ mingw-w64-x86_64-binutils-2.40-2-any downloading...
+ mingw-w64-x86_64-headers-git-10.0.0.r234.g283e5b23a-1-any downloading...
+ mingw-w64-x86_64-crt-git-10.0.0.r234.g283e5b23a-1-any downloading...
+ mingw-w64-x86_64-gettext-0.21.1-1-any downloading...
+ mingw-w64-x86_64-tcl-8.6.12-1-any downloading...
+ mingw-w64-x86_64-tk-8.6.12-1-any downloading...
+ mingw-w64-x86_64-ncurses-6.4.20230211-1-any downloading...
+ mingw-w64-x86_64-sqlite3-3.41.0-1-any downloading...
+ mingw-w64-x86_64-isl-0.25-1-any downloading...
+ mingw-w64-x86_64-gcc-libs-12.2.0-10-any downloading...
+ mingw-w64-x86_64-libiconv-1.17-3-any downloading...
+ mingw-w64-x86_64-zstd-1.5.4-1-any downloading...
+ mingw-w64-x86_64-gmp-6.2.1-5-any downloading...
+ mingw-w64-x86_64-xz-5.4.1-1-any downloading...
+ make-4.4.1-1-x86_64 downloading...
+ mingw-w64-x86_64-readline-8.2.001-6-any downloading...
+ mingw-w64-x86_64-mpfr-4.2.0-1-any downloading...
+ mingw-w64-x86_64-mpdecimal-2.5.1-1-any downloading...
+ mingw-w64-x86_64-tzdata-2022g-1-any downloading...
+ mingw-w64-x86_64-expat-2.5.0-1-any downloading...
+ mingw-w64-x86_64-mpc-1.3.1-1-any downloading...
+ mingw-w64-x86_64-zlib-1.2.13-3-any downloading...
+ unzip-6.0-2-x86_64 downloading...
+ mingw-w64-x86_64-bzip2-1.0.8-2-any downloading...
+ mingw-w64-x86_64-libtre-git-r128.6fb7206-2-any downloading...
+ mingw-w64-x86_64-libffi-3.4.4-1-any downloading...
+ mingw-w64-x86_64-winpthreads-git-10.0.0.r234.g283e5b23a-1-any downloading...
+ mingw-w64-x86_64-libwinpthread-git-10.0.0.r234.g283e5b23a-1-any downloading...
+ mingw-w64-x86_64-termcap-1.3.1-6-any downloading...
+ mingw-w64-x86_64-libsystre-1.0.1-4-any downloading...
+ mingw-w64-x86_64-windows-default-manifest-6.4-4-any downloading...
+يفحص حلقة المفاتيح...
+يفحص سلامة الحزم...
+يحمّل ملفّات الحزم...
+يتحقّق من تعارضات الملفّات...
+يفحص مساحة القرص المتوفّرة...
+:: يعالج تغييرات الحزم...
+يثبّت unzip...
+يثبّت make...
+يثبّت mingw-w64-x86_64-libwinpthread-git...
+يثبّت mingw-w64-x86_64-gcc-libs...
+يثبّت mingw-w64-x86_64-zstd...
+يثبّت mingw-w64-x86_64-binutils...
+يثبّت mingw-w64-x86_64-headers-git...
+يثبّت mingw-w64-x86_64-crt-git...
+يثبّت mingw-w64-x86_64-gmp...
+يثبّت mingw-w64-x86_64-isl...
+يثبّت mingw-w64-x86_64-libiconv...
+يثبّت mingw-w64-x86_64-mpfr...
+يثبّت mingw-w64-x86_64-mpc...
+يثبّت mingw-w64-x86_64-windows-default-manifest...
+يثبّت mingw-w64-x86_64-winpthreads-git...
+يثبّت mingw-w64-x86_64-zlib...
+يثبّت mingw-w64-x86_64-gcc...
+يثبّت mingw-w64-x86_64-expat...
+يثبّت mingw-w64-x86_64-bzip2...
+يثبّت mingw-w64-x86_64-libffi...
+يثبّت mingw-w64-x86_64-mpdecimal...
+يثبّت mingw-w64-x86_64-gettext...
+يثبّت mingw-w64-x86_64-libtre-git...
+يثبّت mingw-w64-x86_64-libsystre...
+يثبّت mingw-w64-x86_64-ncurses...
+يثبّت mingw-w64-x86_64-openssl...
+تبعيات اختيارية لـ mingw-w64-x86_64-openssl
+    mingw-w64-x86_64-ca-certificates
+يثبّت mingw-w64-x86_64-termcap...
+يثبّت mingw-w64-x86_64-readline...
+يثبّت mingw-w64-x86_64-tcl...
+يثبّت mingw-w64-x86_64-sqlite3...
+يثبّت mingw-w64-x86_64-tk...
+يثبّت mingw-w64-x86_64-xz...
+يثبّت mingw-w64-x86_64-tzdata...
+يثبّت mingw-w64-x86_64-python...
+:: Running post-transaction hooks...
+(1/1) Updating the info directory file...
+/c/Users/asus/repository/Stockfish/worker-setup-master/___29634 /c/Users/asus/repository/Stockfish/worker-setup-master
+--2023-03-10 07:42:47--  https://github.com/glinscott/fishtest/archive/master.zip
+Loaded CA certificate '/usr/ssl/certs/ca-bundle.crt'
+Resolving github.com (github.com)... 140.82.121.3
+Connecting to github.com (github.com)|140.82.121.3|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/glinscott/fishtest/zip/refs/heads/master [following]
+--2023-03-10 07:42:48--  https://codeload.github.com/glinscott/fishtest/zip/refs/heads/master
+Resolving codeload.github.com (codeload.github.com)... 140.82.121.10
+Connecting to codeload.github.com (codeload.github.com)|140.82.121.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘master.zip’
+
+     0K .......... .......... .......... .......... ..........  301K
+    50K .......... .......... .......... .......... ..........  517K
+   100K .......... .......... .......... .......... ..........  910K
+   150K .......... .......... .......... .......... .......... 1.43M
+   200K .......... .......... .......... .......... .......... 1.57M
+   250K .......... .......... .......... .......... .......... 2.11M
+   300K .......... .......... .......... .......... .......... 2.21M
+   350K .......... .......... .......... .......... .......... 2.90M
+   400K .......... .......... .......... .......... .......... 3.25M
+   450K .......... .......... .......... .......... .......... 3.54M
+   500K .......... .......... .......... .......... .......... 3.35M
+   550K .......... .......... .......... .......... .......... 3.95M
+   600K .......... .......... .......... .......... .......... 5.29M
+   650K .......... .......... .......... .......... .......... 3.82M
+   700K .......... .......... .......... .......... .......... 5.89M
+   750K .......... .......... .......... .......... .......... 2.66M
+   800K .......... .......... .......... .......... .......... 14.4M
+   850K .......... .......... .......... .......... .......... 6.37M
+   900K ......                                                 67.2K=0.7s
+
+2023-03-10 07:42:50 (1.36 MB/s) - ‘master.zip’ saved [927778]
+
+Archive:  master.zip
+be4894b010d7bdea2037cd54391dd70512bf44ac
+   creating: fishtest-master/worker/
+  inflating: fishtest-master/worker/games.py  
+   creating: fishtest-master/worker/packages/
+ extracting: fishtest-master/worker/packages/__init__.py  
+   creating: fishtest-master/worker/packages/certifi/
+ extracting: fishtest-master/worker/packages/certifi/__init__.py  
+  inflating: fishtest-master/worker/packages/certifi/__main__.py  
+  inflating: fishtest-master/worker/packages/certifi/cacert.pem  
+  inflating: fishtest-master/worker/packages/certifi/core.py  
+   creating: fishtest-master/worker/packages/chardet/
+  inflating: fishtest-master/worker/packages/chardet/__init__.py  
+  inflating: fishtest-master/worker/packages/chardet/big5freq.py  
+  inflating: fishtest-master/worker/packages/chardet/big5prober.py  
+  inflating: fishtest-master/worker/packages/chardet/chardistribution.py  
+  inflating: fishtest-master/worker/packages/chardet/charsetgroupprober.py  
+  inflating: fishtest-master/worker/packages/chardet/charsetprober.py  
+   creating: fishtest-master/worker/packages/chardet/cli/
+ extracting: fishtest-master/worker/packages/chardet/cli/__init__.py  
+  inflating: fishtest-master/worker/packages/chardet/cli/chardetect.py  
+  inflating: fishtest-master/worker/packages/chardet/codingstatemachine.py  
+  inflating: fishtest-master/worker/packages/chardet/compat.py  
+  inflating: fishtest-master/worker/packages/chardet/cp949prober.py  
+  inflating: fishtest-master/worker/packages/chardet/enums.py  
+  inflating: fishtest-master/worker/packages/chardet/escprober.py  
+  inflating: fishtest-master/worker/packages/chardet/escsm.py  
+  inflating: fishtest-master/worker/packages/chardet/eucjpprober.py  
+  inflating: fishtest-master/worker/packages/chardet/euckrfreq.py  
+  inflating: fishtest-master/worker/packages/chardet/euckrprober.py  
+  inflating: fishtest-master/worker/packages/chardet/euctwfreq.py  
+  inflating: fishtest-master/worker/packages/chardet/euctwprober.py  
+  inflating: fishtest-master/worker/packages/chardet/gb2312freq.py  
+  inflating: fishtest-master/worker/packages/chardet/gb2312prober.py  
+  inflating: fishtest-master/worker/packages/chardet/hebrewprober.py  
+  inflating: fishtest-master/worker/packages/chardet/jisfreq.py  
+  inflating: fishtest-master/worker/packages/chardet/jpcntx.py  
+  inflating: fishtest-master/worker/packages/chardet/langbulgarianmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langgreekmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langhebrewmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langhungarianmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langrussianmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langthaimodel.py  
+  inflating: fishtest-master/worker/packages/chardet/langturkishmodel.py  
+  inflating: fishtest-master/worker/packages/chardet/latin1prober.py  
+  inflating: fishtest-master/worker/packages/chardet/mbcharsetprober.py  
+  inflating: fishtest-master/worker/packages/chardet/mbcsgroupprober.py  
+  inflating: fishtest-master/worker/packages/chardet/mbcssm.py  
+   creating: fishtest-master/worker/packages/chardet/metadata/
+ extracting: fishtest-master/worker/packages/chardet/metadata/__init__.py  
+  inflating: fishtest-master/worker/packages/chardet/metadata/languages.py  
+  inflating: fishtest-master/worker/packages/chardet/sbcharsetprober.py  
+  inflating: fishtest-master/worker/packages/chardet/sbcsgroupprober.py  
+  inflating: fishtest-master/worker/packages/chardet/sjisprober.py  
+  inflating: fishtest-master/worker/packages/chardet/universaldetector.py  
+  inflating: fishtest-master/worker/packages/chardet/utf8prober.py  
+  inflating: fishtest-master/worker/packages/chardet/version.py  
+   creating: fishtest-master/worker/packages/expression/
+  inflating: fishtest-master/worker/packages/expression/__init__.py  
+  inflating: fishtest-master/worker/packages/expression/interpreter.py  
+  inflating: fishtest-master/worker/packages/expression/parser.py  
+   creating: fishtest-master/worker/packages/idna/
+  inflating: fishtest-master/worker/packages/idna/__init__.py  
+  inflating: fishtest-master/worker/packages/idna/codec.py  
+  inflating: fishtest-master/worker/packages/idna/compat.py  
+  inflating: fishtest-master/worker/packages/idna/core.py  
+  inflating: fishtest-master/worker/packages/idna/idnadata.py  
+  inflating: fishtest-master/worker/packages/idna/intranges.py  
+ extracting: fishtest-master/worker/packages/idna/package_data.py  
+  inflating: fishtest-master/worker/packages/idna/uts46data.py  
+   creating: fishtest-master/worker/packages/requests/
+  inflating: fishtest-master/worker/packages/requests/__init__.py  
+  inflating: fishtest-master/worker/packages/requests/__version__.py  
+  inflating: fishtest-master/worker/packages/requests/_internal_utils.py  
+  inflating: fishtest-master/worker/packages/requests/adapters.py  
+  inflating: fishtest-master/worker/packages/requests/api.py  
+  inflating: fishtest-master/worker/packages/requests/auth.py  
+  inflating: fishtest-master/worker/packages/requests/certs.py  
+  inflating: fishtest-master/worker/packages/requests/compat.py  
+  inflating: fishtest-master/worker/packages/requests/cookies.py  
+  inflating: fishtest-master/worker/packages/requests/exceptions.py  
+  inflating: fishtest-master/worker/packages/requests/help.py  
+  inflating: fishtest-master/worker/packages/requests/hooks.py  
+  inflating: fishtest-master/worker/packages/requests/models.py  
+  inflating: fishtest-master/worker/packages/requests/packages.py  
+  inflating: fishtest-master/worker/packages/requests/sessions.py  
+  inflating: fishtest-master/worker/packages/requests/status_codes.py  
+  inflating: fishtest-master/worker/packages/requests/structures.py  
+  inflating: fishtest-master/worker/packages/requests/utils.py  
+   creating: fishtest-master/worker/packages/urllib3/
+  inflating: fishtest-master/worker/packages/urllib3/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/_collections.py  
+ extracting: fishtest-master/worker/packages/urllib3/_version.py  
+  inflating: fishtest-master/worker/packages/urllib3/connection.py  
+  inflating: fishtest-master/worker/packages/urllib3/connectionpool.py  
+   creating: fishtest-master/worker/packages/urllib3/contrib/
+ extracting: fishtest-master/worker/packages/urllib3/contrib/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/_appengine_environ.py  
+   creating: fishtest-master/worker/packages/urllib3/contrib/_securetransport/
+ extracting: fishtest-master/worker/packages/urllib3/contrib/_securetransport/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/_securetransport/bindings.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/_securetransport/low_level.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/appengine.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/ntlmpool.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/pyopenssl.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/securetransport.py  
+  inflating: fishtest-master/worker/packages/urllib3/contrib/socks.py  
+  inflating: fishtest-master/worker/packages/urllib3/exceptions.py  
+  inflating: fishtest-master/worker/packages/urllib3/fields.py  
+  inflating: fishtest-master/worker/packages/urllib3/filepost.py  
+   creating: fishtest-master/worker/packages/urllib3/packages/
+  inflating: fishtest-master/worker/packages/urllib3/packages/__init__.py  
+   creating: fishtest-master/worker/packages/urllib3/packages/backports/
+ extracting: fishtest-master/worker/packages/urllib3/packages/backports/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/packages/backports/makefile.py  
+  inflating: fishtest-master/worker/packages/urllib3/packages/six.py  
+   creating: fishtest-master/worker/packages/urllib3/packages/ssl_match_hostname/
+  inflating: fishtest-master/worker/packages/urllib3/packages/ssl_match_hostname/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/packages/ssl_match_hostname/_implementation.py  
+  inflating: fishtest-master/worker/packages/urllib3/poolmanager.py  
+  inflating: fishtest-master/worker/packages/urllib3/request.py  
+  inflating: fishtest-master/worker/packages/urllib3/response.py  
+   creating: fishtest-master/worker/packages/urllib3/util/
+  inflating: fishtest-master/worker/packages/urllib3/util/__init__.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/connection.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/proxy.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/queue.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/request.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/response.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/retry.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/ssl_.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/ssltransport.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/timeout.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/url.py  
+  inflating: fishtest-master/worker/packages/urllib3/util/wait.py  
+  inflating: fishtest-master/worker/setup.py  
+  inflating: fishtest-master/worker/sri.txt  
+  inflating: fishtest-master/worker/test_worker.py  
+  inflating: fishtest-master/worker/updater.py  
+  inflating: fishtest-master/worker/worker.py  
+/c/Users/asus/repository/Stockfish/worker-setup-master/___29634/fishtest-master/worker /c/Users/asus/repository/Stockfish/worker-setup-master/___29634 /c/Users/asus/repository/Stockfish/worker-setup-master
+Requirement already satisfied: pip in c:/users/asus/repository/stockfish/worker-setup-master/___29634/fishtest-master/worker/env/lib/python3.10/site-packages (22.3.1)
+Collecting pip
+  Using cached pip-23.0.1-py3-none-any.whl (2.1 MB)
+Requirement already satisfied: setuptools in c:/users/asus/repository/stockfish/worker-setup-master/___29634/fishtest-master/worker/env/lib/python3.10/site-packages (65.5.0)
+Collecting setuptools
+  Downloading setuptools-67.6.0-py3-none-any.whl (1.1 MB)
+     ---------------------------------------- 1.1/1.1 MB 1.6 MB/s eta 0:00:00
+Collecting wheel
+  Using cached wheel-0.38.4-py3-none-any.whl (36 kB)
+Installing collected packages: wheel, setuptools, pip
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 65.5.0
+    Uninstalling setuptools-65.5.0:
+      Successfully uninstalled setuptools-65.5.0
+  Attempting uninstall: pip
+    Found existing installation: pip 22.3.1
+    Uninstalling pip-22.3.1:
+      Successfully uninstalled pip-22.3.1
+Successfully installed pip-23.0.1 setuptools-67.6.0 wheel-0.38.4
+Collecting requests
+  Using cached requests-2.28.2-py3-none-any.whl (62 kB)
+Collecting charset-normalizer<4,>=2
+  Downloading charset_normalizer-3.1.0-py3-none-any.whl (46 kB)
+     -------------------------------------- 46.2/46.2 kB 254.8 kB/s eta 0:00:00
+Collecting certifi>=2017.4.17
+  Using cached certifi-2022.12.7-py3-none-any.whl (155 kB)
+Collecting idna<4,>=2.5
+  Using cached idna-3.4-py3-none-any.whl (61 kB)
+Collecting urllib3<1.27,>=1.21.1
+  Using cached urllib3-1.26.14-py2.py3-none-any.whl (140 kB)
+Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests
+Successfully installed certifi-2022.12.7 charset-normalizer-3.1.0 idna-3.4 requests-2.28.2 urllib3-1.26.14
+. : File C:\Users\asus\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1 cannot be loaded because running 
+scripts is disabled on this system. For more information, see about_Execution_Policies at 
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\asus\Documents\WindowsPowerShell\Microsoft.PowerShell_pro ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+______ _     _     _            _                        _
+|  ___(_)   | |   | |          | |                      | |
+| |_   _ ___| |__ | |_ ___  ___| |_  __      _____  _ __| | _____ _ __
+|  _| | / __| '_ \| __/ _ \/ __| __| \ \ /\ / / _ \| '__| |/ / _ \ '__|
+| |   | \__ \ | | | ||  __/\__ \ |_   \ V  V / (_) | |  |   <  __/ |
+\_|   |_|___/_| |_|\__\___||___/\__|   \_/\_/ \___/|_|  |_|\_\___|_|
+
+Worker started in C:/Users/asus/repository/Stockfish/worker-setup-master/___29634/fishtest-master/worker ... (PID=19940)
+Creating lock file C:/Users/asus/repository/Stockfish/worker-setup-master/___29634/fishtest-master/worker/worker.lock
+Found g++ version 12.2.0
+No clang++ or clang++ is not executable
+concurrency must be at least 1
+argument -c/--concurrency: invalid concurrency value: '-1'
+Error parsing options. Config file not written.
+Deleting lock file C:/Users/asus/repository/Stockfish/worker-setup-master/___29634/fishtest-master/worker/worker.lock
+Error: restart the script setting a proper concurrency value
+/c/Users/asus/repository/Stockfish/worker-setup-master/___29634 /c/Users/asus/repository/Stockfish/worker-setup-master
+/c/Users/asus/repository/Stockfish/worker-setup-master
