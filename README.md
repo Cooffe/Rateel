@@ -126,6 +126,7 @@ Stockfish uses neural networks trained on [data provided by the Leela Chess Zero
 project][lc0-data-link], which is made available under the [Open Database License][odbl-link] (ODbL).
 
 
+[build-link]:         https://ci.appveyor.com/nuget/rateel-kcfbjj3x7r4v
 [authors-link]:       https://github.com/official-stockfish/Stockfish/blob/master/AUTHORS
 [build-link]:         https://github.com/official-stockfish/Stockfish/actions/workflows/stockfish.yml
 [commits-link]:       https://github.com/official-stockfish/Stockfish/commits/master
